@@ -1,0 +1,28 @@
+< !-- Cascading Style Shades(CSS),
+Syntax: selector {
+  property: value;
+}
+
+-->body {
+  background-color: #E8F9FD;
+}
+
+hr {
+  background-color: ;
+  border-style: none;
+  border-top-style: dotted;
+  border color: #0AA1DD;
+  border-width: 5px;
+  height: 0px;
+  width: 10%;
+}
+
+h1 {
+  color: #0AA1DD;
+}
+
+h3 {
+  color: #0AA1DD;
+}
+
+< !-- we mention percentage here because on other devices it still looks same -->
